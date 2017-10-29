@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Site settings
 title: Hux Blog
 SEOTitle: 黄玄的博客 | Hux Blog
@@ -121,3 +122,6 @@ friends: [
         href: "http://wepiaofei.github.io/blog/"
     }
 ]
+=======
+theme: jekyll-theme-slate
+>>>>>>> origin/master
